@@ -1,0 +1,29 @@
+.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8{
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    color: rosybrown;
+}
+.a1:hover{
+    transform: translate(100px,120px);
+}
+.a2:hover{
+    transform: skewX(40deg);
+}
+.a3:hover{
+    transform: skewy(40deg);
+}
+.a4:hover{
+    transform: rotate(90deg);
+}
+.a5:hover{
+    transform: scale(2);
+}
+.a6:hover{
+    transform: rotateX(45deg);
+}
+.a7:hover{
+    transform: rotateY(145deg);
+}
+.a8:hover{
+    transform: rotatez(145deg);
+}

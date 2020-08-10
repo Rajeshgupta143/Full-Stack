@@ -1,0 +1,24 @@
+.a2{
+    list-style-type: none;
+    border: 2px solid seagreen;
+    background-color: rgb(218, 149, 118);
+
+}
+.a2 a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 10px;
+    color: mediumslateblue;
+}
+.a2 a:hover{
+    color: mediumvioletred;
+    background-color: rgb(204, 204, 160);
+    font-size: large;
+}
+.a1{
+    list-style-type: square;
+}
+.a2 a:active{
+    color: silver;
+
+}

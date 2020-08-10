@@ -1,0 +1,15 @@
+table,th,td{
+    border: solid 2px seagreen;
+}
+th{
+    text-align: center;
+    height: 50%;  
+    vertical-align: 40px;  
+}
+td{
+    height: 50px;
+    vertical-align: bottom;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}

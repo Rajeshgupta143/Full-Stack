@@ -1,0 +1,33 @@
+table,th,td{
+    border: 2px solid sienna;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+input[type=text],input[type=password]{
+    width: 90%;
+    margin: 8px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid rebeccapurple;
+    border-radius: 5px;
+    background-color: rosybrown;
+    color: white;
+}
+label{
+    font-variant: small-caps;
+    color: teal;
+}
+th p{
+    font-size: x-large;   
+    font-variant: small-caps;
+    text-align: center;
+}
+input[type=button]{
+    font-size: large;
+    font-weight: bolder;
+    background-color: rgb(196, 196, 107);
+    color: red;
+    cursor: pointer;
+}

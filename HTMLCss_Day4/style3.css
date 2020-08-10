@@ -1,0 +1,12 @@
+.a1{
+    color: dimgray;
+    text-shadow: 2px 3px yellow;
+    text-align: center;
+    background-color: lavender;
+}
+.a2{
+    color: teal;
+    box-shadow:2px 3px 2px 3px thistle;
+    background-color:lavender;
+    padding-left: 10px;
+}

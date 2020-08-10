@@ -1,0 +1,32 @@
+.c1{
+    color: rgb(201, 201, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+.c2{
+    color: lawngreen;
+    font-family:    Arial, Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    font-variant: normal;
+    font-weight: bold;
+}
+.c3{
+    color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+    font-variant: small-caps;
+    font-weight: lighter;
+}
+.c4{
+    color: lightseagreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-weight: inherit;
+}

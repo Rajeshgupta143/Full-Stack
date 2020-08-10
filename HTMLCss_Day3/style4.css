@@ -1,0 +1,21 @@
+a{
+    color: orange;
+}
+a:link{
+    color: orangered;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 10px;
+    text-align: center;
+
+}
+a:hover{
+    color: palegreen;
+    background-color: purple;
+    font-size: large;
+    text-decoration: underline;
+    text-align: center;
+}
+a.active{
+    color: red;
+}
